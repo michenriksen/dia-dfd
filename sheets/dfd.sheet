@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>DFD</name>
+  <description>Data Flow Diagram shapes by @michenriksen</description>
+  <contents>
+    <object name="Flowchart - Box">
+      <description>External entities are objects outside the system, with which the system communicates.</description>
+    </object>
+    <object name="Flowchart - Ellipse">
+      <description>A process transforms incoming data flow into outgoing data flow.</description>
+    </object>
+    <object name="DFD - Data Store">
+      <description>Datastores are repositories of data in the system. They are sometimes also referred to as files.</description>
+    </object>
+    <object name="DFD - Trust Boundary">
+      <description>Trust boundaries represent the change of privilege levels as the data flows through the application.</description>
+    </object>
+    <object name="Cisco - Man blue">
+      <description>Should be seen as an external entity.</description>
+    </object>
+    <object name="Cisco - Man red">
+      <description>Should be seen as an external entity.</description>
+    </object>
+    <object name="Cisco - Man gold">
+      <description>Should be seen as an external entity.</description>
+    </object>
+  </contents>
+</sheet>
